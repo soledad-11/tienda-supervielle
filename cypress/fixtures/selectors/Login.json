@@ -1,0 +1,6 @@
+{
+    "URL": "/inicio-sesion",
+    "inputEmail": "#email",
+    "inputPassword": "#passwd",
+    "submitLogin": "#SubmitLogin"
+}
